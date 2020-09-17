@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm widhisec</h1>
 <h3 align="center">hobi koding karena gabut mulu yakan gitu aja</h3>
 
-- ![image](https://komarev.com/ghpvc/?username=widhisec&label=Views&color=red&style=plastic)
-- ![image](https://img.shields.io/github/followers/widhisec?label=follow&style=social)
+ ![image](https://komarev.com/ghpvc/?username=widhisec&label=Views&color=red&style=plastic)
+ ![image](https://img.shields.io/github/followers/widhisec?label=follow&style=social)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widhisec&theme=green&hide_langs_below=1" />
 
