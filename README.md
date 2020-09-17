@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm widhisec</h1>
-<h3 align="center">hobi koding karena gabut mulu yakan gitu aja buat hobi</h3>
+<h3 align="center">hobi koding karena gabut mulu yakan gitu aja</h3>
 
 - 📫 reach me **garmermax1@gmail.com**
 
